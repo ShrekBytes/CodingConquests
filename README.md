@@ -72,7 +72,7 @@ The solutions are organized based on the problem practice platforms. Each platfo
 
 ###
 
-## Good Luck
+## Good Luck 🍀
 Feel free to use the code and solutions for personal or educational purposes.
 
 Happy coding and problem solving!
