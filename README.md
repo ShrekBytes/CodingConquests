@@ -12,7 +12,7 @@ Welcome to CodingConquests! This repository is a collection of solutions to dive
 - [Languages](#languages)
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
-- [Licence](#licence)
+- [License](#license)
 
 ## Languages
 
