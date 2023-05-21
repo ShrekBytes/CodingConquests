@@ -73,7 +73,16 @@ The solutions are organized based on the problem practice platforms. Each platfo
 
 ###
 
-## Good Luck!
-Feel free to use the code and solutions for personal or educational purposes.
+## Contributing
 
-Happy coding and problem solving!
+Contributions to this repository are not currently open. It is intended solely for showcasing the projects completed during my time at Varsity.
+
+However, if you have any suggestions, feedback, or questions, feel free to open an issue in the repository. I appreciate your interest and input!
+
+## License
+
+"License? Nah, who needs those pesky legalities anyway? Feel free to do whatever you want with this code – use it as a doorstop, launch it into space, or frame it as a modern art masterpiece. Just don't blame me if things get a little wild!"
+
+###
+
+Happy exploring and learning! 🚀🎓
