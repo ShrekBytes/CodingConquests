@@ -21,6 +21,7 @@ The solutions in this repository are available in the following programming lang
 - C++
 - C#
 - Java
+- JavaScript
 - Python
 - Bash
 
