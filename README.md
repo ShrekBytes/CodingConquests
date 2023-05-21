@@ -11,7 +11,8 @@ Welcome to CodingConquests! This repository is a collection of solutions to dive
 
 - [Languages](#languages)
 - [Folder Structure](#folder-structure)
-- [Good Luck](#good-luck)
+- [Contributing](#contributing)
+- [Licence](#licence)
 
 ## Languages
 
