@@ -68,6 +68,7 @@ The repository is structured as follows:
 ├── ...
 ├── README.md
 └── logo.png
+└── ...
 ```
 
 The solutions are organized based on the problem practice platforms. Each platform has its own folder, and inside each platform folder, you will find folders for individual problems. Inside each problem folder, you will find the solutions in different programming languages.
