@@ -76,7 +76,7 @@ The solutions are organized based on the problem practice platforms. Each platfo
 
 ## Contributing
 
-Contributions to this repository are not currently open. It is intended solely for showcasing the projects completed during my time at Varsity.
+Contributions to this repository are not currently open. It is intended solely for showcasing the problems I solved from different practice problem platforms.
 
 However, if you have any suggestions, feedback, or questions, feel free to open an issue in the repository. I appreciate your interest and input!
 
