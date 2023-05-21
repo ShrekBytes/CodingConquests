@@ -1,6 +1,6 @@
 # CodingConquests
 
-![CodingConquests Logo](logo.png)
+<img src="logo.png" alt="CodingConquests Logo" width="200" height="200">
 
 ## Problem Solving Showcase
 
