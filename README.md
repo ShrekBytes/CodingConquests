@@ -10,8 +10,7 @@ Welcome to CodingConquests! This repository is a collection of solutions to dive
 
 - [Languages](#languages)
 - [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
+- [Good Luck](#good-luck)
 
 ## Languages
 
@@ -73,6 +72,7 @@ The solutions are organized based on the problem practice platforms. Each platfo
 
 ###
 
+## Good Luck
 Feel free to use the code and solutions for personal or educational purposes.
 
 Happy coding and problem solving!
