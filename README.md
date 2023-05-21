@@ -1,6 +1,8 @@
 # CodingConquests
 
 <img src="logo.png" alt="CodingConquests Logo" width="200" height="200">
+<img src="logo2.png" alt="CodingConquests Logo 2" width="200" height="200">
+
 
 ## Problem Solving Showcase
 
